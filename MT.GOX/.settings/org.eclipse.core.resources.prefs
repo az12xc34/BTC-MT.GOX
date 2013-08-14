@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/mt/gox/cn/MainActivity.java=UTF-8
+encoding//src/com/mt/gox/cn/adapter/DepthFetchAdapter.java=UTF-8
+encoding//src/com/mt/gox/cn/adapter/OpenOrderAdapter.java=UTF-8
+encoding//src/com/mt/gox/cn/adapter/VolumeAdapter.java=UTF-8
+encoding//src/com/mt/gox/cn/utils/Utils.java=GBK
+encoding/<project>=GBK
